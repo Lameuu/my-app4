@@ -60,7 +60,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato pelo e-mail: [seu-email@dominio.com](cellinho35@gmail.com)
+Para dúvidas ou sugestões, entre em contato pelo e-mail: [cellinho35@gmail.com](cellinho35@gmail.com)
 ```
 
 

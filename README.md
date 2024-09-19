@@ -1,4 +1,4 @@
-Claro! Vamos começar com o **README.md** e depois passo para a documentação em Word.
+
 
 ### README.md
 
@@ -60,7 +60,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato pelo e-mail: [seu-email@dominio.com](mailto:seu-email@dominio.com)
+Para dúvidas ou sugestões, entre em contato pelo e-mail: [seu-email@dominio.com](cellinho35@gmail.com)
 ```
 
-Salve o conteúdo acima em um arquivo chamado `README.md`. Caso precise de ajustes ou mais detalhes, me avise!
+
